@@ -3,24 +3,6 @@
 # Volcán Chaiten
 Chile es uno de los 5 países con más volcanes activos en el mundo (Chile, Indonesia, Estados Unidos, Japón, Rusia), con cerca de 95 volcanes.  Esto debido a que Chile pertenece a uno de los 40 países del Cinturón de Fuego, una región de 40.000 kilómetros en la que varias placas oceánicas se deslizan y aproximan.
 
-Los volcanes se clasifican dentro de cinco categorías principales de acuerdo con el tipo de estructura y de actividad volcánica que presentan.
-- Los estratovolcanes
-- Los volcanes en escudo
-- Los conos de ceniza o de escoria
-- Las calderas volcánicas
-
-- Los domos de lava son de mucho menor tamaño que las estructuras volcánicas anteriormente mencionadas y son caracterizados por fuertes pendientes generadas por la acumulación de lavas viscosas y flujos de bloques   
-
-![tipos de volcanes](https://user-images.githubusercontent.com/89029895/141701034-854eb5cd-8145-4ec6-bc68-c8d1c647fa0a.jpg)
-
-Además existen distintos tipos de erupciones
-- En las erupciones hawaiana
-- Las erupciones estromboliana
-- En las erupciones vulcaniana
-- En las erupciones peleano
-
-- La erupciones pliniana o vesuviano, el volcán emite lava muy viscosa y la explosión es violenta. Se caracteriza por su excepcional fuerza, continua erupción de gas y la expulsión de grandes cantidad de ceniza. Durante una erupción Pliniana, se puede dispersar ceniza fina a lo largo de grandes extensiones. Esta erupción tuvo el volcán Chaitén en el 2008.
-
 ## Chile, un país volcánicamente activo
 El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 categorías de volcanes de acuerdo a su índice de peligrosidad, en estos volcanes hay instalado al menos un método de resgistro (sismógrafo, cámaras de vigilancia, cámaras infrarrojas, etc).
 
@@ -63,6 +45,25 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 | Ranking Riesgo Específico | 11 |
 | Medidas caldera | (2,5 x 4) km |
 | Mayores riesgos asociados | Debido a su registro eruptivo, el mayor riesgo viene de la ceniza que en su momento se elevó sobre la cordillera de los andes debido a vientos favorables. Las nieves y las lluvias pueden generar lahares. |
+
+Los volcanes se clasifican dentro de cinco categorías principales de acuerdo con el tipo de estructura y de actividad volcánica que presentan.
+- Los estratovolcanes
+- Los volcanes en escudo
+- Los conos de ceniza o de escoria
+- Las calderas volcánicas
+
+- Los domos de lava son de mucho menor tamaño que las estructuras volcánicas anteriormente mencionadas y son caracterizados por fuertes pendientes generadas por la acumulación de lavas viscosas y flujos de bloques   
+
+![tipos de volcanes](https://user-images.githubusercontent.com/89029895/141701034-854eb5cd-8145-4ec6-bc68-c8d1c647fa0a.jpg)
+
+Además existen distintos tipos de erupciones
+- En las erupciones hawaiana
+- Las erupciones estromboliana
+- En las erupciones vulcaniana
+- En las erupciones peleano
+
+- La erupciones pliniana o vesuviano, el volcán emite lava muy viscosa y la explosión es violenta. Se caracteriza por su excepcional fuerza, continua erupción de gas y la expulsión de grandes cantidad de ceniza. Durante una erupción Pliniana, se puede dispersar ceniza fina a lo largo de grandes extensiones. Esta erupción tuvo el volcán Chaitén en el 2008.
+
 
 ## Chaitén, errupción inesperada
 __El jueves 1 de mayo de 2008 fue la erupción del volcán Chaitén.__ Esta erupción fue muy imprevista en varios aspectos, por lo que es un evento científico muy interesante de estudiar.
