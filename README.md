@@ -52,7 +52,7 @@ Los volcanes se clasifican dentro de cinco categorías principales de acuerdo co
 - Los conos de ceniza o de escoria
 - Las calderas volcánicas
 
-- Los domos de lava son de mucho menor tamaño que las estructuras volcánicas anteriormente mencionadas y son caracterizados por fuertes pendientes generadas por la acumulación de lavas viscosas y flujos de bloques   
+- Los domos de lava son de mucho menor tamaño que las estructuras volcánicas anteriormente mencionadas y son caracterizados por fuertes pendientes generadas por la acumulación de lavas viscosas y flujos de bloques. El volcán Chaitén es de esta categoría.   
 
 ![tipos de volcanes](https://user-images.githubusercontent.com/89029895/141701034-854eb5cd-8145-4ec6-bc68-c8d1c647fa0a.jpg)
 
