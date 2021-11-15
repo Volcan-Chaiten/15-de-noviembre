@@ -3,7 +3,7 @@
 # Volcán Chaiten
 Chile es uno de los 5 países con más volcanes activos en el mundo (Chile, Indonesia, Estados Unidos, Japón, Rusia), con cerca de 95 volcanes.  Esto debido a que Chile pertenece a uno de los 40 países del Cinturón de Fuego, una región de 40.000 kilómetros en la que varias placas oceánicas se deslizan y aproximan. El jueves 1 de mayo de 2008 inesperadamente el volcán Chaitén entra en erupción causando la destruccón casi por completo la ciudad de Chaitén.
 
-## Chaitén, errupción inesperada
+## Chaitén, erupción inesperada
 __Información del volcán Chaitén__
 
 | Nombre | Volcán Chaitén |
