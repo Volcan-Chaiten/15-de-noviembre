@@ -49,8 +49,7 @@ Esta erupción fue muy imprevista en varios aspectos, por lo que es un evento ci
 
 ## Río Blanco (Chaitén)
 - El Río Blanco o río Chaitén tiene 20 km de longitud. Sus cuencas son costeras y ubicadas entre Río Puelo y Río Yelcho con una superficie de cuenca de 78,5 km². Nace en el lado sur del cordón Chaitén, fluye hacia el sur, bordea varios volcanes, cruza la ciudad de Chaitén y desemboca finalmente en el océano Pacífico. *mapa del río*
--  Su trayecto previo a la erupción del volcán se dirigía desde el norte hacia la ciudad Chaitén, la bordeaba por el este y desembocaba en el mar hacia al sur. Sin embargo, durante la erupción el río lleno de cenizas y barro de la erupción, desbordó su cauce y cruzó por el centro de la ciudad hacia el mar, creando una división entre sur y norte de la ciudad que persiste hasta ahora. *cambio del río, mapa?*
--  El día 2 de mayo de 2008 se originó la erupción del Volcán Chaitén. La caída de cenizas en el río, el deshielo y los días de lluvia terminaron provocando, diez días después de la erupción, el desborde del Río Blanco y el aumento del caudal de las aguas. 
+-  Su trayecto previo a la erupción del volcán se dirigía desde el norte hacia la ciudad Chaitén, la bordeaba por el este y desembocaba en el mar hacia al sur. Sin embargo, La caída de cenizas en el río, el deshielo y los días de lluvia terminaron provocando, diez días después de la erupción, el desborde del Río Blanco y el aumento del caudal de las aguas.Se desbordó su cauce y cruzó por el centro de la ciudad hacia el mar, creando una división entre sur y norte de la ciudad que persiste hasta ahora. *cambio del río, mapa?*
 -  El Río ascendió hasta 1,5 metros de su cauce habitual, desencadenando la evacuación total de los habitantes de Chaitén. El desborde destruyó una gran parte del pueblo al dividirlo en dos sectores. 
 ![Galeria10](https://user-images.githubusercontent.com/89029895/141843769-c45a490c-2ab3-405e-9616-9dee8069181d.jpeg)
 
