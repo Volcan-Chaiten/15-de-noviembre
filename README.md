@@ -1,7 +1,7 @@
 # 15-de-noviembre
 
 # Volcán Chaiten
-Chile es uno de los 5 países con más volcanes activos en el mundo, con cerca de 95 volcanes.  Esto debido a que Chile pertenece a uno de los 40 países del Cinturón de Fuego, una región de 40.000 kilómetros en la que varias placas oceánicas se deslizan y aproximan.
+Chile es uno de los 5 países con más volcanes activos en el mundo (Chile, Indonesia, Estados Unidos, Japón, Rusia), con cerca de 95 volcanes.  Esto debido a que Chile pertenece a uno de los 40 países del Cinturón de Fuego, una región de 40.000 kilómetros en la que varias placas oceánicas se deslizan y aproximan.
 
 Los volcanes se clasifican dentro de cinco categorías principales de acuerdo con el tipo de estructura y de actividad volcánica que presentan.
 - Los estratovolcanes
