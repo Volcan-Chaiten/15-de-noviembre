@@ -4,26 +4,20 @@
 Chile es uno de los 5 países con más volcanes activos en el mundo, con cerca de 95 volcanes.  Esto debido a que Chile pertenece a uno de los 40 países del Cinturón de Fuego, una región de 40.000 kilómetros en la que varias placas oceánicas se deslizan y aproximan.
 
 Los volcanes se clasifican dentro de cinco categorías principales de acuerdo con el tipo de estructura y de actividad volcánica que presentan.
-- Los estratovolcanes tienen una forma cónica y un cráter central, que se caracterizan por erupciones de tipo explosiva causadas por la viscosidad de su magma. Este tipo de estructura volcánica está compuesta por capas de depósitos de lava y fragmento de roca intercaladas. 
-
-- Los volcanes en escudo presentan un perfil redondeado con pendientes suaves formadas por superposición de flujos de lava. Dado que sus erupciones son de muy baja explosividad, este tipo de volcanes no constituyen un grave peligro y una buena vigilancia permite evacuar con eficacia poblados que se podrían ver afectados por la lava.
-
-- Los conos de ceniza o de escoria son estructuras que no superan los 250 m de altura y presentan erupciones de tipo explosivo estromboliano. La estructura de estos conos, en forma de colina empinada cónica, son el resultado de la acumulación de piroclastos alrededor de la chimenea.
-
-- Las calderas volcánicas son el resultado de grandes erupciones, las cuales hacen que colapse o se derrumbe la parte central o todo el edificio volcánico, dejando un gran cráter o caldera.
+- Los estratovolcanes
+- Los volcanes en escudo
+- Los conos de ceniza o de escoria
+- Las calderas volcánicas
 
 - Los domos de lava son de mucho menor tamaño que las estructuras volcánicas anteriormente mencionadas y son caracterizados por fuertes pendientes generadas por la acumulación de lavas viscosas y flujos de bloques   
 
 ![tipos de volcanes](https://user-images.githubusercontent.com/89029895/141701034-854eb5cd-8145-4ec6-bc68-c8d1c647fa0a.jpg)
 
 Además existen distintos tipos de erupciones
-- En las erupciones hawaiana, el volcán emite una lava poca viscosa, bastante fluida, ya que no tiene muchos materiales piroclásticos (mezcla caliente de gases, ceniza y fragmentos de roca. Los gases se van liberando poco a poco, y por eso, las explosiones son mínimas.
-
-- Las erupciones estromboliana, el volcán lanza material piroclástico. Las explosiones son esporádicas y el volcán no emite la lava de forma continua.
-
-- En las erupciones vulcaniana, el volcán emite lava muy viscosa, poco fluida, que se solidifican con rapidez. Se forman grandes nubes de material piroclástico y se emite mucha ceniza. Están caracterizadas por producir una erupción en forma de nube similar a una seta u hongo y la actividad suele comenzar con una erupción que descarga escombros.
-
-- En las erupciones peleano, la lava se consolida rápidamente y se produce un tapón en el cráter. Como los gases no tienen salida, se crea gran presión dentro del volcán por lo que las paredes llegan a ceder y la lava es expulsada por los costados de los mismos.
+- En las erupciones hawaiana
+- Las erupciones estromboliana
+- En las erupciones vulcaniana
+- En las erupciones peleano
 
 - La erupciones pliniana o vesuviano, el volcán emite lava muy viscosa y la explosión es violenta. Se caracteriza por su excepcional fuerza, continua erupción de gas y la expulsión de grandes cantidad de ceniza. Durante una erupción Pliniana, se puede dispersar ceniza fina a lo largo de grandes extensiones. Esta erupción tuvo el volcán Chaitén en el 2008.
 
